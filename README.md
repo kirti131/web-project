@@ -1,2 +1,2 @@
 # web-project
-100 projects on we
+100 projects on web
